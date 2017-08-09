@@ -1,15 +1,11 @@
 {
-  "name": "firechat",
+  "name": "custom-fire-chat",
   "description": "Realtime open source chat client powered by Firebase",
-  "version": "3.0.1",
-  "author": "Firebase (https://firebase.google.com/)",
-  "homepage": "https://firechat.firebaseapp.com/",
+  "version": "0.0.1",
+  "author": "Paul Lee",
   "repository": {
     "type": "git",
-    "url": "https://github.com/firebase/firechat.git"
-  },
-  "bugs": {
-    "url": "https://github.com/firebase/firechat/issues"
+    "url": "https://github.com/LEEDAEHYUNG/custom-fire-chat.git"
   },
   "license": "MIT",
   "keywords": [
