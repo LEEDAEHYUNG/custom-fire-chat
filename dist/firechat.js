@@ -730,3 +730,5 @@
     }
   };
 })();
+
+module.exports = Firechat;

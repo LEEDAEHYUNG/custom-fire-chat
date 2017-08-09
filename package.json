@@ -16,7 +16,7 @@
     "websocket",
     "synchronization"
   ],
-  "main": "index.js",
+  "main": "dist/firechat.js",
   "files": [
     "dist/**",
     "LICENSE",
